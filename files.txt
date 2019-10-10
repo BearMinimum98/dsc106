@@ -1,0 +1,3 @@
+d3 bar chart: https://observablehq.com/@kevzho/untitled
+d3 line chart: https://observablehq.com/@kevzho/untitled/2
+d3 pie chart: https://observablehq.com/@kevzho/untitled/3
